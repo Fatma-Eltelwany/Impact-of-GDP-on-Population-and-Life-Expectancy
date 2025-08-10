@@ -31,17 +31,6 @@ Data preparation was performed in **Power Query**, including:
 
 ---
 
-## 📷 Screenshots
-*(Add images of your dashboard here)*
-
----
-
-## 📁 Files in This Repository
-- `GDP_Dashboard.twbx` — Tableau packaged workbook
-- `data/raw/` — Original dataset
-- `data/processed/` — Cleaned dataset
-- `images/` — Dashboard screenshots
-- `README.md` — Project description
 
 ---
 
