@@ -32,8 +32,3 @@ Data preparation was performed in **Power Query**, including:
 ---
 
 
----
-
-## 🖋 Author
-**Fatma Eltelwany**  
-Data Analyst | Computational Physics & Data Science Graduate Student  
