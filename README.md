@@ -1,4 +1,5 @@
-# Impact-of-GDP-on-Population-and-Life-Expectancy# How Does GDP Affect Countries? — Tableau Dashboard
+# Impact-of-GDP-on-Population-and-Life-Expectancy
+# How Does GDP Affect Countries? — Tableau Dashboard
 
 ## 📊 Project Overview
 This project explores the relationship between GDP per capita and various socio-economic indicators, including population, net migration, and life expectancy. The interactive Tableau dashboard allows users to filter, highlight, and forecast trends.
