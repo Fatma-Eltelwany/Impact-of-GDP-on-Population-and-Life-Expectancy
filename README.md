@@ -1,4 +1,4 @@
-# Impact-of-GDP-on-Population-and-Life-Expectancy
+
 # How Does GDP Affect Countries? — Tableau Dashboard
 
 ## 📊 Project Overview
